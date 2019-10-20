@@ -1,0 +1,2 @@
+# ProjektDz
+Zadace iz projekta
